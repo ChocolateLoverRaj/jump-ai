@@ -2,7 +2,7 @@
 Uses [Tensorflow](https://github.com/tensorflow/tfjs-models/tree/master/pose-detection#pose-detection) to detect if a person is raising their hand
 
 ## Website
-https://ChocolateLoverRaj.github.io/raise-hand-ai
+https://ChocolateLoverRaj.github.io/jump-ai
 
 ## Developing
 - Install [Node.js](https://nodejs.org)
