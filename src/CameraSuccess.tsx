@@ -1,13 +1,13 @@
 import { FC } from 'react'
+import Video from './Video'
 import ChooseCamera from './ChooseCamera'
-import Detector from './Detector'
 
 const CameraSuccess: FC = () => {
   return (
     <>
       <ChooseCamera />
       <br />
-      <Detector />
+      <Video />
     </>
   )
 }

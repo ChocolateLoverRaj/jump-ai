@@ -1,13 +1,15 @@
 import { FC } from 'react'
 import { Title, HeadProvider } from 'react-head'
-import Content from './Content'
+import Camera from './Camera'
+import Usb from './Usb'
 
 const App: FC = () => {
   return (
     <>
       <HeadProvider>
-        <Title>Jump AI</Title>
-        <Content />
+        <Title>USB Camera</Title>
+        <Camera />
+        <Usb />
       </HeadProvider>
     </>
   )
